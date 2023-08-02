@@ -1,0 +1,28 @@
+{
+  "id": "2329d1c2-6519-4d7e-819d-4fac862f46e8",
+  "name": "RoomBooking",
+  "publisher": "Default publisher",
+  "version": "1.0.0.2",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "3.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
